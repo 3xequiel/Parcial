@@ -1,0 +1,6 @@
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\parcial\primer parcial laboratorio\bin\Debug\primer parcial laboratorio.exe.config
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\parcial\primer parcial laboratorio\obj\Debug\primer parcial laboratorio.csprojResolveAssemblyReference.cache
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\parcial\primer parcial laboratorio\bin\Debug\primer parcial laboratorio.exe
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\parcial\primer parcial laboratorio\bin\Debug\primer parcial laboratorio.pdb
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\parcial\primer parcial laboratorio\obj\Debug\primer parcial laboratorio.exe
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\parcial\primer parcial laboratorio\obj\Debug\primer parcial laboratorio.pdb

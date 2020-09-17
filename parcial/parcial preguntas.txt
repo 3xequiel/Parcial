@@ -1,0 +1,13 @@
+
+
+1-la diferencia entre un error de sintaxis y un error de logica es que un al cometer un error de sintaxis 
+no deja ejecutar la aplicacion por que es un error en el que el lenguaje no entiende lo que le estamos 
+pidiendo ejecutar, al cometer un error de logica el compilador puede ejecutar la aplicacion pero no lo
+ejecutariamos de forma correcta, por que el problema no estaria resuelto y la aplicacion no funcionaria
+correctamente
+
+2- Los operadores logicos son Y(conguncion) y en el codigo seria &&, O(disyuncion) que en codigo seria ||,  No(negacion) que pasado a codigo seria !
+
+3-La refactorizacion de codigo no quita ni agrega funcionalidad, lo que hace es que sea mas legible y mas ordenado 
+
+4-Si ya que el arrayLyst es una estructura especial que a diferencia de un arreglo normal, puede contener valores de distintos tipos
